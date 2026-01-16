@@ -1,67 +1,79 @@
-### Hey there :wave:
+### Hey there 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=This+is+Shumbul+Arifa)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=36BCF7&lines=Hi%2C+I'm+Manan+Gupta;Full-Stack+%26+AI+Enthusiast;Building+Product-Driven+SaaS)](https://git.io/typing-svg)
 
-###### Glad to see you here :heart:
+###### Glad to see you here ❤️
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shumbul&label=Views&color=blue&style=plastic" alt="shumbul" /> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=MananGupta123&label=Profile%20Views&color=blue&style=plastic" alt="MananGupta123" />
+</p>
 
-<a href="http://yt.openinapp.co/shumbul">
-  <kbd>
-  <img align="centre" alt="YouTube shumbul" width="66px" src="https://download.logo.wine/logo/YouTube/YouTube-Logo.wine.png" />
+---
+
+### 🔗 Connect with me
+
+<a href="https://github.com/MananGupta123">
+  <img alt="GitHub" width="28px" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" />
+</a>
+&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/manan-gupta-05a748244/">
+  <img alt="LinkedIn" width="28px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
+</a>
+&nbsp;&nbsp;
+<a href="https://drive.google.com/file/d/1Ld5HVM6HppGUQIBKWsIGMNsPR8MV_p6K/view">
+  <img alt="Resume" width="28px" src="https://cdn-icons-png.flaticon.com/512/337/337946.png" />
 </a>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Subscribe+to+my+YouTube+Channel)](https://git.io/typing-svg)
+---
 
-<a href="https://shumbularifa.com">
-  <kbd>
-  <img align="centre" alt="shumbularifa.com" width="22px" src="https://dz8fbjd9gwp2s.cloudfront.net/logos/644a0515e4b062410b4e9f3b.png?v=5" />
-</a>
- 
- <a href="https://linktr.ee/shumbul">
-  <kbd>
-  <img align="centre" alt="shumbul's LinkTree" width="22px" height="22px" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/linktree-logo-icon.svg" />
-</a>
-   
-<a href="https://linkedin.com/in/shumbul">
-  <kbd>
-  <img align="centre" alt="shumbul's LinkdeIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
-</a>
-  
- <a href="https://www.instagram.com/shumbul.arifa/">
-  <kbd>
-  <img align="centre" alt="shumbul's Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" />
-</a>
+### 👨‍💻 About Me
 
-<a href="https://www.instagram.com/shumbularifa/">
-  <kbd>
-  <img align="centre" alt="shumbul's Instagram - personal blog" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" />
-</a>
-  
-<a href="https://twitter.com/ShumbulArifa">
-<kbd>
-<img align="centre" alt="shumbul's Twitter" width="22px" src="https://www.iconpacks.net/icons/2/free-twitter-logo-icon-2429-thumb.png" />
-</a>
- 
-<a href="https://t.me/ShumbulArifa">
-  <kbd>
-  <img align="centre" alt="shumbul's Telegram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/768px-Telegram_logo.svg.png" />
-</a>
- 
-<a href="https://devfolio.co/@shumbul_arifa">
-  <kbd>
-  <img align="centre" alt="shumbul's Devfolio" width="22px" src="https://avatars.githubusercontent.com/u/38809367?s=280&v=4" />
-</a>
+- 🎓 Final-year **B.Tech Computer Science (Core)** student at **VIT**, CGPA **8.54**
+- 💼 **Web Development Intern** at **Auto VYN** (Client: **Maruti Suzuki**)
+- 🧠 Interested in **Full-Stack Development, AI-powered SaaS, and Product Engineering**
+- 🚀 Enjoy building **real-world, scalable applications**, not just demos
+- 📄 View my resume [here](https://drive.google.com/file/d/1Ld5HVM6HppGUQIBKWsIGMNsPR8MV_p6K/view)
 
-<br/>
-<br/>
+---
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Let's+Connect)](https://git.io/typing-svg)
+### 🛠️ Tech Stack
 
-- 🏢 I am a Software Engineer at Microsoft
-- 🏫 2022 B.Tech. graduate from NIT Karnataka
-- 💻 Former SDE Intern at Qualcomm, India
-- 🙋‍ More about me: Visit my [website](https://shumbul.github.io/)
-- 📹 Subscribe on YouTube [Shumbul](http://yt.openinapp.co/shumbul)
-- 🖇 Follow me on [LinkedIn](https://linkedin.com/in/shumbul)
-- 👯 Pronouns: She/Her
+**Languages:**  
+`Java` `Python` `C/C++` `SQL` `JavaScript` `HTML` `CSS`
+
+**Frameworks & Tools:**  
+`React` `Next.js` `Node.js (basic)` `Tailwind CSS` `Bootstrap`  
+`Prisma` `PostgreSQL` `Supabase` `Clerk`  
+`Google Cloud Platform` `VS Code`
+
+---
+
+### 🚀 Featured Projects
+
+#### 🔹 AI-Powered Career Coach Platform
+- Full-stack AI SaaS providing **personalized career guidance**
+- AI-generated **mock interviews, resumes, cover letters, and skill insights**
+- Built with **Next.js, Prisma, PostgreSQL, Gemini API**
+- Automated weekly updates using **Inngest background jobs**
+
+#### 🔹 Smart URL Shortener
+- Secure URL shortening with **QR codes and real-time analytics**
+- Location-based click tracking and protected dashboards
+- Built using **React, Tailwind CSS, Supabase**
+
+---
+
+### 🏆 Experience & Activities
+
+- 💼 Interned at **Auto VYN**, contributing to responsive UI, API-integrated dashboards, and form validation
+- 👨‍💻 Core Committee Member, **CodeChef – VIT**
+- 🏁 Participated in **Webwiz Hackathon** and **IEEE Yantra’25 Code4Change**
+
+---
+
+### 📌 One-line Summary
+> *A product-focused developer passionate about building AI-powered, scalable web applications.*
+
+---
+
+⭐ Feel free to explore my repositories and connect with me!
